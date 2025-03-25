@@ -1,11 +1,3 @@
-# Obsidian Notes
+# Introduction
 
-Publish your public notes with MkDocs
-
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Ars Saxum is a resource to guide players in a way where you can find something really cool that you cant do, learn skills that you dont have yet thats needed to pull the cool thing off, and then be able to pull off and ALSO support that cool move
